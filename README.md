@@ -1,6 +1,6 @@
 # ELM_tox
  
- ELM_tox offers ensemble learning model for predicting reproductive toxicity  of chemicals.
+ ELM_tox offers ensemble learning models for predicting reproductive toxicity  of chemicals.
  
  Paper title: Predicting the Reproductive Toxicity of Chemicals Using Ensemble Learning Methods and Molecular Fingerprints
  
